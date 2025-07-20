@@ -13,3 +13,32 @@
    </picture>
 </a>
 </p>
+
+# 👨‍💻 Slydog9696 — Digital Tinkerer | Analog Craftsman
+
+Hi! I’m David — aka **Slydog9696** — a hybrid of hardwired hustle and high-voltage curiosity. I grew up on a cattle farm fixing fences, baling hay, and raising animals, but I’ve been in Software Troubleshooting, PC Repair, Networking, Monitoring, and Bulletin Board Systems (BBS) since the '90s. I have been deep diving into electronics, circuits, microprocessor programming, Ark server coding, software development, programming, all things code, and bots since the 2000s.
+
+## ⚡ What I Like To Do
+- 🔧 Repair & diagnostics for Networks, PCs and electronics
+- 💻 Projects in HTML, CSS, JavaScript, TypeScript
+- 🧠 Firebase, APIs, Docker, and AI/ML exploration
+- 🕹️ Gamer, Game server owner / coder / admin (ARK, No Man’s Sky, Minecraft etc.)
+- 🤖 Discord bot builder and script tinkerer
+
+## 📺 My Channel
+Check out my YouTube channel:  
+[🎥 Sly’s Analog and Digital Chronicles](https://www.youtube.com/@Slydog9696)
+
+I share curated videos on:
+- Tech, AI, and programming tools
+- Stock market strategies
+- Game development and server hosting
+
+## 🔗 Find Me Around
+- 🧠 Discord Server: **Hooked On Gaming | Programming**
+- 🛠️ Website (coming soon): Tech Tips & Utilities Hub
+- 🐮 Catchphrase: *“If it blinks, beeps, or boots — I’ll fix it, code it, or make it smarter.”*
+
+---
+> *“Powered by Mtn Dew, caffeine, code, farming, fixing, and curiosity.”*
+
